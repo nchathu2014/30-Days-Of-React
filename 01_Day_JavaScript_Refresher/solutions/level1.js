@@ -1,0 +1,38 @@
+//1
+
+
+//2
+
+//1-Declare an empty array;
+let empty_array=[];
+
+//2.Declare an array with more than 5 number of elements
+const codes = ['0001','0002','0003','0004','0005','0006'];
+
+//3.Find the length of your array
+const arr_length = codes.length;
+
+//4.Get the first item, the middle item and the last item of the array
+const first_item = codes[0];
+const last_item = codes[arr_length-1];
+
+//Declare an array called mixedDataTypes, put different data types in the array and find the length of the array. The array size should be greater than 5
+//Declare an array variable name itCompanies and assign initial values Facebook, Google, Microsoft, Apple, IBM, Oracle and Amazon
+//Print the array using console.log()
+//Print the number of companies in the array
+//Print the first company, middle and last company
+//Print out each company
+//Change each company name to uppercase one by one and print them out
+//Print the array like as a sentence: Facebook, Google, Microsoft, Apple, IBM,Oracle and Amazon are big IT companies.
+   //Check if a certain company exists in the itCompanies array. If it exist return the company else return a company is not found
+//Filter out companies which have more than one 'o' without the filter method
+//Sort the array using sort() method
+////Reverse the array using reverse() method
+//Slice out the first 3 companies from the array
+//Slice out the last 3 companies from the array
+//Slice out the middle IT company or companies from the array
+//Remove the first IT company from the array
+//Remove the middle IT company or companies from the array
+//Remove the last IT company from the array
+//Remove all IT companies
+
